@@ -42,6 +42,6 @@
     "expose-loader": "^0.7.5",
     "jquery": "^3.4.1",
     "normalize.css": "^8.0.0",
-    "swiper": "^5.3.6"
+    "swiper": "^6.5.1"
   }
 }
